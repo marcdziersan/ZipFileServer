@@ -87,3 +87,9 @@ Marcus Dziersan
 ## 📄 License
 
 MIT License - See LICENSE file for details.
+
+<center>
+  <img src="Screen1.PNG">
+  <img src="Screen2.PNG">
+  <img src="Screen3.PNG">
+</center>
